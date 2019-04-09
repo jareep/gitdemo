@@ -1,0 +1,9 @@
+Checkout: git clone https://github.com/jareep/gitdemo.git
+Add ALL NEW files: git add .
+You can add individual files: git add /Path/To/The/NEW/File
+Show status: git status
+Commit changes to local repo: git commit -m “Enter a description for the commit here”
+Get changes from repo (NOTE: This MUST be done before pushing your local repo changes to the repository): git pull
+Push local changes to the server: git push
+To remove files: Just delete them from your local computer and then use: git add .
+
