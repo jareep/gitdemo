@@ -1,1 +1,2 @@
 Testing
+This is me testing the GitHub project through my terminal.
